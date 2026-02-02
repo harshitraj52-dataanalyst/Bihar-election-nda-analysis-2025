@@ -137,3 +137,9 @@ The repository is organised as follows:
 
 This repository is intended for analytical and academic use.  
 The dashboard and findings should be interpreted as diagnostic insights rather than prescriptive recommendations.
+## Power BI Dashboard
+
+The Power BI (.pbix) file included in this repository contains interactive dashboards used for exploratory and explanatory analysis. 
+The dashboard visualizes seat typology, voter turnout categories, socio-economic correlations, and regional patterns across NDA-lost constituencies.
+
+To view the dashboard, download the .pbix file and open it in Power BI Desktop.
