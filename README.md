@@ -45,7 +45,7 @@ The analysis is based on the following data sources:
 
 - District-level socio-economic data was mapped to assembly constituencies to enable constituency-level analysis.
 
-- Seats were classified into four categories—Chronic Weak, Swing, Core Collapse, and Early Decline—based on the structural vote base and past electoral performance of the NDA across the 2015, 2020, and 2025 elections.
+- Seats were classified into four categories:Chronic Weak, Swing, Core Collapse, and Early Decline, based on the structural vote base and past electoral performance of the NDA across the 2015, 2020, and 2025 elections.
 
 - Continuous socio-economic variables were categorised into four bands: Very Low, Low, Moderate, and High.
 
