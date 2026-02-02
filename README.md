@@ -19,7 +19,7 @@ The analysis is guided by the following research questions:
 
 2. What types of seats constitute the 41 NDA-lost constituencies when classified on the basis of historical electoral performance across the 2015, 2020, and 2025 elections?
 
-3. Did voter turnout levels play a role in NDA losses, or did losses occur despite relatively high levels of voter mobilisation?
+3. Did voter turnout levels play a role in NDA losses?
 
 4. Is female socio-economic participation (such as literacy and workforce participation) more relevant to electoral outcomes than mere demographic presence?
 
