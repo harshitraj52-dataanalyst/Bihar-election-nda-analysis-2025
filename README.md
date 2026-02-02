@@ -15,7 +15,7 @@ The objective of this analysis is not electoral prediction, but diagnostic evalu
 
 The analysis is guided by the following research questions:
 
-1. Is there any observable association between selected socio-economic indicators and NDA vote share in the constituencies lost in the 2025 Bihar Assembly election, particularly in the context of welfare interventions such as the Mahila Rojgar Yojana?
+1. Is there any observable association between selected socio-economic indicators and NDA vote share in the constituencies lost in the 2025 Bihar Assembly election, particularly in the context of welfare interventions such as the CM Mahila Rojgar Yojana?
 
 2. What types of seats constitute the 41 NDA-lost constituencies when classified on the basis of historical electoral performance across the 2015, 2020, and 2025 elections?
 
